@@ -10,7 +10,7 @@ theme: jekyll-theme-slate
 title: "CS476"
 description: "Computer Graphics"
 
-url                      : https://ursinus-cs476-f2020.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ursinus-cs476-f2022.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/Modules" # the subpath of your site, e.g. "/blog"
     
 # Reading Files
