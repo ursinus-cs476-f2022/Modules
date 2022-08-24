@@ -3,7 +3,7 @@ layout: exercise_javascript
 permalink: "Week1/ArrayMinIndex"
 title: "Javascript Example Module: Array Min Index"
 excerpt: "Javascript Example Module: Array Min Index"
-canvasasmtid: "97204"
+canvasasmtid: "152701"
 canvaspoints: "2"
 canvashalftries: 5
 

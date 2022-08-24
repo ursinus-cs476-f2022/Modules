@@ -3,7 +3,7 @@ layout: exercise_javascript
 permalink: "Week1/Quadratic"
 title: "Javascript Example Module: Quadratic Formula"
 excerpt: "Javascript Example Module: Quadratic Formula"
-canvasasmtid: "97203"
+canvasasmtid: "152700"
 canvaspoints: "2"
 canvashalftries: 5
 
