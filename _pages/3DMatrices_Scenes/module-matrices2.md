@@ -10,6 +10,7 @@ info:
   
 ---
 
-Please watch the video below, and click the next button once you have finished. <a href = "../slides/3DMatrix.pdf">Click here</a> for the slides that go along with this video.
+Please watch the video below, and click the next button once you have finished. 
+<ul><li><a href = "../slides/3DMatrix.pdf">Click here</a> for the slides that go along with this video</li></ul>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mRt9d2Cq1hE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

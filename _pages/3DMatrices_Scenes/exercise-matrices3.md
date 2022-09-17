@@ -3,7 +3,7 @@ layout: exercise_javascript
 permalink: "Scenes/Exercise3"
 title: "CS 476: Computer Graphics - Scenes Module Exercise 3"
 excerpt: "CS 476: Computer Graphics - Scenes Module Exercise 3"
-canvasasmtid: "100577"
+canvasasmtid: "157237"
 canvaspoints: "1"
 
 info:

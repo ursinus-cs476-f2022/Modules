@@ -3,7 +3,7 @@ layout: exercise_matrix
 permalink: "Scenes/Exercise1"
 title: "CS 476: Computer Graphics - Scenes Module Exercise 1"
 excerpt: "CS 476: Computer Graphics - Scenes Module Exercise 1"
-canvasasmtid: "100575"
+canvasasmtid: "157235"
 canvaspoints: "1"
 
 info:
