@@ -1,8 +1,8 @@
 ---
 layout: exercise_matrix
-permalink: "Module7/Exercise2"
-title: "CS 476: Computer Graphics - Module 7 Exercise 2"
-excerpt: "CS 476: Computer Graphics - Module 7 Exercise 2"
+permalink: "Scenes/Exercise2"
+title: "CS 476: Computer Graphics - Scenes Module Exercise 2"
+excerpt: "CS 476: Computer Graphics - Scenes Module Exercise 2"
 canvasasmtid: "100576"
 canvaspoints: "1"
 
@@ -10,7 +10,7 @@ info:
   prev: "./Video2"
   next: "./Video3"
   points: 1
-  instructions: "<p>Recall that rotation matrices in 2D commute.  But this turns out not to be the case for 3D rotations when the rotation axes are different.  Find two rotation matrices around different axes which lead to different results when applied in a different order</p><div id = \"matrixdisplay\"></div>"
+  instructions: "<p>Rotation matrices in 2D commute (i.e. it doesn't matter what order we do them), but this turns out not to be the case for 3D rotations when the rotation axes are different.  Find two rotation matrices around different axes which lead to different results when applied in a different order</p><div id = \"matrixdisplay\"></div>"
   goals:
     - Construct 3D rotation matries
     - Explore the commutativity of 3D rotations

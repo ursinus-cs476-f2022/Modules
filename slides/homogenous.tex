@@ -1,0 +1,100 @@
+\documentclass{beamer}
+\usepackage[latin1]{inputenc}
+\usepackage{times}
+\usepackage{tikz}
+\usetheme{Luebeck}
+%\usecolortheme{albatross}
+\usepackage{amsmath,amsfonts,amsthm,amssymb}
+\usepackage{setspace}
+\usepackage{Tabbing}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{extramarks}
+\usepackage{chngpage}
+\usepackage{soul,color}
+\usepackage{graphicx,float,wrapfig}
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{float}
+%\usepackage{subfloat}
+\usepackage{subfig}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{algpseudocode}
+
+\definecolor{darkorange}{RGB}{240, 120, 0}
+\beamertemplatenavigationsymbolsempty
+\setbeamercolor{background canvas}{bg=white}
+\setbeamercolor{frametitle}{fg=white, bg=darkorange}
+\setbeamercolor{normal text}{bg=black,fg=black}
+\setbeamercolor{structure}{bg=black, fg=darkorange}
+
+\title{Translations And Homogenous Coordinates}
+\institute{Chris Tralie, Ursinus College}
+\author{CS 476 Ursinus College}
+\date{}
+\begin{document}
+
+
+\frame{\titlepage}
+
+
+\begin{frame}{Translation Matrix}
+
+\[ f((x, y)) = (x + a, y + b) \]
+
+\[  \left[  \begin{array}{cc} a & b \\ c & d  \end{array} \right] \left[ \begin{array}{c} x \\ y \end{array} \right] =  \left[ \begin{array}{c} x + t_x \\ y + t_y \end{array} \right] \]
+
+\only<1>{
+	\begin{figure}[t]
+		\centering
+		\includegraphics[width=0.5\textwidth]{translation1.pdf}
+	\end{figure}	
+}
+
+\only<2>{
+	\begin{figure}[t]
+		\centering
+		\includegraphics[width=0.5\textwidth]{translation2.pdf}
+	\end{figure}	
+}
+
+\end{frame}
+
+
+\begin{frame}{Translation Matrix}
+
+	
+	\[  \left[  \begin{array}{cc} a & b \\ c & d  \end{array} \right] \left[ \begin{array}{c} 0 \\ 0 \end{array} \right] =  \left[ \begin{array}{c} t_x \\ t_y \end{array} \right] \]
+
+	\uncover<2-> {
+		But this is impossible!!
+	}
+
+	\[  \left[  \begin{array}{cc} a & b \\ c & d  \end{array} \right] \left[ \begin{array}{c} 0 \\ 0 \end{array} \right] =  \left[ \begin{array}{c} 0 \\ 0 \end{array} \right] \]
+	for any $a, b, c, d$.  Translation is a {\em nonlinear} operation
+
+\end{frame}
+
+
+\begin{frame}{Homogenous Coordinates}
+
+Pure translation with homogenous coordinates
+
+\[ \left[ \begin{array}{ccc} 1 & 0 & T_x \\ 0 & 1 & T_y \\ 0 & 0 & 1 \end{array} \right] \left[ \begin{array}{c} x \\ y \\ 1 \end{array} \right] = \left[  \begin{array}{c}  \left[ \begin{array}{c} x \\ y \end{array} \right] + \left[ \begin{array}{c} T_x \\ T_y \end{array} \right]  \\ 1 \end{array}  \right] \]
+
+\end{frame}
+
+\begin{frame}{Homogenous Coordinates}
+
+General 2D transformation + translation
+
+\[ \left[ \begin{array}{ccc} a & b & T_x \\ c & d & T_y \\ 0 & 0 & 1 \end{array} \right] \left[ \begin{array}{c} x \\ y \\ 1 \end{array} \right] = \left[  \begin{array}{c} \left[ \begin{array}{cc} a & b \\ c & d \end{array} \right] \left[ \begin{array}{c} x \\ y \end{array} \right] + \left[ \begin{array}{c} T_x \\ T_y \end{array} \right]  \\ 1 \end{array}  \right] \]
+
+We have some extra baggage, but we have more freedom now
+
+\end{frame}
+
+
+\end{document}
+

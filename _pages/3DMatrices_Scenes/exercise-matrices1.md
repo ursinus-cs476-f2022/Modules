@@ -1,8 +1,8 @@
 ---
 layout: exercise_matrix
-permalink: "Module7/Exercise1"
-title: "CS 476: Computer Graphics - Module 7 Exercise 1"
-excerpt: "CS 476: Computer Graphics - Module 7 Exercise 1"
+permalink: "Scenes/Exercise1"
+title: "CS 476: Computer Graphics - Scenes Module Exercise 1"
+excerpt: "CS 476: Computer Graphics - Scenes Module Exercise 1"
 canvasasmtid: "100575"
 canvaspoints: "1"
 
@@ -13,6 +13,7 @@ info:
   instructions: "<p>Construct a single matrix that stretches by a factor of 3 in the y direction, and which then translates by the vector (1, 2, -1)</p><div id = \"matrixdisplay\"></div>"
   goals:
     - Work with fundamental examples of matrix multiplications to transform 3D shapes
+    - Work with homogenous coordinates for combinations of linear transformations and translations
     
 processor:  
   correctfeedback: "Correct!!" 

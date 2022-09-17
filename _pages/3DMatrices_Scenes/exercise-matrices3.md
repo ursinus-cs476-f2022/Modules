@@ -1,8 +1,8 @@
 ---
 layout: exercise_javascript
-permalink: "Module7/Exercise3"
-title: "CS 476: Computer Graphics - Module 7 Exercise 3"
-excerpt: "CS 476: Computer Graphics - Module 7 Exercise 3"
+permalink: "Scenes/Exercise3"
+title: "CS 476: Computer Graphics - Scenes Module Exercise 3"
+excerpt: "CS 476: Computer Graphics - Scenes Module Exercise 3"
 canvasasmtid: "100577"
 canvaspoints: "1"
 
