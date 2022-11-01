@@ -1,9 +1,9 @@
 ---
 layout: exercise_javascript_heightmap
-permalink: "Module15/Exercise2"
-title: "CS 476: Computer Graphics - Module 15 Exercise 2"
-excerpt: "CS 476: Computer Graphics - Module 15 Exercise 2"
-canvasasmtid: "104212"
+permalink: "Levelset/Exercise2"
+title: "CS 476: Computer Graphics - Levelsets Coding Exercise"
+excerpt: "CS 476: Computer Graphics - Levelsets Coding Exercise"
+canvasasmtid: "159364"
 canvaspoints: "1.5"
 
 info:
