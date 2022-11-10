@@ -1,15 +1,14 @@
 ---
 layout: exercise_javascript
-permalink: "Module9/Exercise2"
-title: "CS 476: Computer Graphics - Module 9 Exercise 2"
-excerpt: "CS 476: Computer Graphics - Module 9 Exercise 2"
-canvasasmtid: "101244"
-canvaspoints: "1"
+permalink: "ComplexNumbers/Exercise"
+title: "CS 476: Computer Graphics - Complex Numbers Exercise"
+excerpt: "CS 476: Computer Graphics - Complex Numbers Exercise"
+canvasasmtid: "159757"
+canvaspoints: "1.5"
 
 info:
-  prev: "./Video2"
-  next: "./Video3"
-  points: 1
+  prev: "./Video"
+  points: 1.5
   instructions: "Fill in the method <code>complexMultiply</code> to perform a complex multiplication between two complex numbers.  Recall that the complex product between <b>a+bi</b> and <b>c+di</b> is <b>(ac-bd) + (ad+bc)i"
   goals:
     - Implement complex multiplication in code
