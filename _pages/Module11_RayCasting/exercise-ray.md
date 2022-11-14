@@ -1,8 +1,8 @@
 ---
 layout: exercise_javascript
 permalink: "RayCasting/Exercise"
-title: "CS 476: Computer Graphics - Module 11 Exercise"
-excerpt: "CS 476: Computer Graphics - Module 11 Exercise"
+title: "CS 476: Computer Graphics - Ray Casting Module Exercise"
+excerpt: "CS 476: Computer Graphics - Ray Casting Module Exercise"
 canvasasmtid: "159897"
 canvaspoints: "1.5"
 

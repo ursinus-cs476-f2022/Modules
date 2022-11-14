@@ -1,8 +1,8 @@
 ---
 layout: module
 permalink: RayCasting/Video3
-title: "CS 476: Computer Graphics - Module 11 Video 3/3"
-excerpt: "CS 476: Computer Graphics - Module 11 Video 3/3"
+title: "CS 476: Computer Graphics - Ray Casting Module Video 3/3"
+excerpt: "CS 476: Computer Graphics - Ray Casting Module Video 3/3"
 
 info:
   prev: "./Video2"
