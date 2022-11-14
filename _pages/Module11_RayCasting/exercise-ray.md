@@ -1,15 +1,15 @@
 ---
 layout: exercise_javascript
-permalink: "Module11/Exercise"
+permalink: "RayCasting/Exercise"
 title: "CS 476: Computer Graphics - Module 11 Exercise"
 excerpt: "CS 476: Computer Graphics - Module 11 Exercise"
-canvasasmtid: "101749"
-canvaspoints: "1"
+canvasasmtid: "159897"
+canvaspoints: "1.5"
 
 info:
   prev: "./Video3"
   next: "./AABBNotes"
-  points: 1
+  points: 1.5
   instructions: "Fill in the method <code>getSphereNormal</code> to compute the normal at a point of intersection on the sphere.  Note that we're going back into Javascript/glmatrix library mode for a moment, but that this stuff is much simpler with the built-in functions in GLSL."
   goals:
     - Work with vector math to accomplish tasks for ray tracing
