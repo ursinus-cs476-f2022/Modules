@@ -3,7 +3,7 @@ layout: exercise_javascript_shader
 permalink: "Lighting/BlinnPhong"
 title: "CS 476: Computer Graphics Class Exercise - Blinn-Phong Shading"
 excerpt: "CS 476: Computer Graphics Class Exercise - Blinn-Phong Shading"
-canvasasmtid: "101413"
+canvasasmtid: "160104"
 canvaspoints: "2"
 
 info:

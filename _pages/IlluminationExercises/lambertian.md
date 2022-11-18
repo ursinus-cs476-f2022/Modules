@@ -3,7 +3,7 @@ layout: exercise_javascript_shader
 permalink: "Lighting/Lambertian"
 title: "CS 476: Computer Graphics Class Exercise - Lambertian Shading"
 excerpt: "CS 476: Computer Graphics Class Exercise - Lambertian Shading"
-canvasasmtid: "101412"
+canvasasmtid: "160103"
 canvaspoints: "1.5"
 
 info:

@@ -3,7 +3,7 @@ layout: exercise_javascript_shader
 permalink: "Module10/Exercise2"
 title: "CS 476: Computer Graphics - Module 10 Exercise 2"
 excerpt: "CS 476: Computer Graphics - Module 10 Exercise 2"
-canvasasmtid: "101413"
+canvasasmtid: "160104"
 canvaspoints: "2"
 
 info:
