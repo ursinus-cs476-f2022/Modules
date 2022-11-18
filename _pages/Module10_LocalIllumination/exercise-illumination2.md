@@ -57,6 +57,7 @@ processor:
 
 vert:
   isreadonly: false
+  height: 1300
   code: |
         precision mediump float;
         #define MAX_LIGHTS 10
@@ -133,6 +134,7 @@ vert:
 
 frag:
   isreadonly: true
+  height: 120
   code: |
         precision mediump float;
         varying vec3 color;

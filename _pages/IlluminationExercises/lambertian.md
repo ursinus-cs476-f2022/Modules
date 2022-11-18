@@ -49,7 +49,7 @@ processor:
 
 vert:
   isreadonly: false
-  height: 1000
+  height: 1200
   code: |
         precision mediump float;
         #define MAX_LIGHTS 10

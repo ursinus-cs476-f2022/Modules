@@ -50,6 +50,7 @@ processor:
 
 vert:
   isreadonly: false
+  height: 1200
   code: |
         precision mediump float;
         #define MAX_LIGHTS 10
@@ -109,6 +110,7 @@ vert:
         }
 
 frag:
+  height: 120
   isreadonly: true
   code: |
         precision mediump float;
