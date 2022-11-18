@@ -99,11 +99,27 @@ submitformlinkdirections: "Clicking Check/Submit below will check your work and,
 
         <h3>Scene</h3>
         <div id="sceneEditor">{{ page.scene.code }}</div>
+        {% if page.scene.height %}
+        <script>
+            document.getElementById("sceneEditor").style.height="{{ page.scene.height }}px";
+        </script>
+        {% endif %}
         <button onclick="updateScene();">Update Scene</button>
         <h3>Vertex Shader</h3>
         <div id="vertEditor">{{ page.vert.code }}</div>
+        {% if page.vert.height %}
+        <script>
+            document.getElementById("vertEditor").style.height="{{ page.vert.height }}px";
+        </script>
+        {% endif %}
         <h3>Fragment Shader</h3>
         <div id="fragEditor">{{ page.frag.code }}</div>
+        {% if page.frag.height %}
+        <script>
+            document.getElementById("fragEditor").style.height="{{ page.frag.height }}px";
+        </script>
+        {% endif %}
+
         
         <button onclick="updateShader();">Update Shaders</button>
 
