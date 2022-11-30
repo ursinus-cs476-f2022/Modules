@@ -1,7 +1,7 @@
 ---
 layout: module
-permalink: Module13/Video1
-title: "CS 476: Computer Graphics - Module 13 Video 1"
+permalink: PerspectiveView/Video1
+title: "CS 476: Computer Graphics - Object First Perspective/Viewing Video 1"
 excerpt: "CS 476: Computer Graphics - Module 11 Video 1"
 
 info:

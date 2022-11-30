@@ -1,9 +1,9 @@
 ---
 layout: exercise_javascript_viewing
-permalink: "Module13/Exercise1"
-title: "CS 476: Computer Graphics - Module 13 Exercise 1"
-excerpt: "CS 476: Computer Graphics - Module 13 Exercise 1"
-canvasasmtid: "102893"
+permalink: "PerspectiveView/Exercise1"
+title: "CS 476: Computer Graphics - Object First Perspective/Viewing Exercise 1"
+excerpt: "CS 476: Computer Graphics - Object First Perspective/Viewing Exercise 1"
+canvasasmtid: "160487"
 canvaspoints: "1.5"
 
 info:

@@ -1,6 +1,6 @@
 ---
 layout: exercise_javascript_viewing
-permalink: "Module13/ClassExercise"
+permalink: "PerspectiveView/ClassExercise"
 title: "CS 476: Computer Graphics - Camera Viewing Exercise"
 excerpt: "CS 476: Computer Graphics - Camera Viewing Exercise"
 

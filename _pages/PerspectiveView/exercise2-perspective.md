@@ -1,14 +1,13 @@
 ---
 layout: exercise_javascript_viewing
-permalink: "Module13/Exercise2"
-title: "CS 476: Computer Graphics - Module 13 Exercise 2"
-excerpt: "CS 476: Computer Graphics - Module 13 Exercise 2"
-canvasasmtid: "102894"
+permalink: "PerspectiveView/Exercise2"
+title: "CS 476: Computer Graphics - Object First Perspective/Viewing Exercise 2"
+excerpt: "CS 476: Computer Graphics - Object First Perspective/Viewing Exercise 2"
+canvasasmtid: "160488"
 canvaspoints: "1.5"
 
 info:
   prev: "./Video3"
-  next: "./Video4"
   points: 1.5
   instructions: "Fill in the projection matrix to perform a perspective projection, taking into consideration the fields of view in x and y, as well as the near and far clip planes."
   goals:
